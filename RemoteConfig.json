@@ -5,7 +5,7 @@
   "forceUpdateUrl": "market://details?id=EMPTY",
   "checkClone": false,
   "reviewVersion": -1,
-  "showNESGamesTimeDelay": 300,
+  "showNESGamesTimeDelay": 720,
   "adsNetwork": 0,
   "adsType": 0,
   "numberPressToShowAds": 15,
